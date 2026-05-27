@@ -129,18 +129,6 @@ Input signals switch between:
 LOW = 0 V
 HIGH = 5 V
 ```
-
----
-
-# Key Learnings
-
-- Sequential logic fundamentals
-- Feedback-based state retention
-- Basic digital memory concepts
-- CMOS latch behavior
-- Transient waveform analysis
-- Introductory custom IC workflow concepts
-
 ---
 
 # Files Included
@@ -151,7 +139,6 @@ LTspice schematic files for the SR latch simulation.
 ## `/images`
 Simulation screenshots including:
 - transistor-level schematic
-- transient waveforms
 - feedback behavior visualization
 - hardware assembly diagram
 
@@ -164,11 +151,3 @@ Simulation screenshots including:
 - Arduino
 
 ---
-
-# Future Improvements
-
-- D latch implementation
-- D flip-flop design
-- Clocked sequential logic
-- Timing analysis exploration
-- FSM-oriented CMOS logic design
